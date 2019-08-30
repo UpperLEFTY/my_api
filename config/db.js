@@ -1,3 +1,3 @@
 module.exports = {
-  url: "www.yoitsupperlefty.com"
+  url: "www.upper-lefty.com"
 };
